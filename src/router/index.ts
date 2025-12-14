@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import UniversityAnalysisView from "../views/UniversityAnalysisView.vue";
 import MajorAnalysisView from "../views/MajorAnalysisView.vue";
@@ -7,7 +7,7 @@ import EmploymentFurtherView from "../views/EmploymentFurtherView.vue";
 import DataDownloadView from "../views/DataDownloadView.vue";
 
 const router = createRouter({
-	history: createWebHistory(import.meta.env.BASE_URL),
+	history: createWebHashHistory(),
 	routes: [
 		{
 			path: "/",

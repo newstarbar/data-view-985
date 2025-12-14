@@ -205,7 +205,7 @@ const initEarth = () => {
 	};
 
 	// 生成模拟数据函数
-	const generateFakeSeriesData = (dayCount: number, xidx: number, yidx: number) => {
+	const generateFakeSeriesData = (dayCount: number, xidx: number, _yidx: number) => {
 		const dayStart = new Date("2025-05-05T00:00:00.000Z"); // Monday
 		dayStart.setDate(xidx + 5);
 		const timeStart = dayStart.getTime();
@@ -381,17 +381,7 @@ const initEarth = () => {
 	console.log("Matrix Micro Line Chart initialization completed");
 };
 
-// 控制矩阵图表旋转（保留原有按钮功能）
-const rotateEarth = (direction: number) => {
-	// 矩阵图表不需要旋转，保留函数以保持按钮功能
-	console.log("Matrix chart rotation not implemented");
-};
-
-// 切换自动旋转（保留原有按钮功能）
-const toggleAutoRotate = () => {
-	// 矩阵图表不需要自动旋转，保留函数以保持按钮功能
-	console.log("Auto rotation toggle not implemented for matrix chart");
-};
+// 矩阵图表不需要旋转和自动旋转功能
 
 // 停止矩阵图表动画
 const stopEarthAnimation = () => {
