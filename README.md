@@ -725,7 +725,7 @@ TIMELINE_AUTO_PLAY=true
 
 ## 9. 版权声明
 
-© 2024 数据可视化团队. 保留所有权利。
+© 2025 星途科技工作室团队. 保留所有权利。
 
 本项目的所有代码、文档和设计资源均受版权保护，未经授权不得擅自使用、复制或传播。
 
@@ -748,12 +748,9 @@ TIMELINE_AUTO_PLAY=true
 
 如有任何问题或建议，欢迎通过以下方式联系我们：
 
--   **团队邮箱**：data-visualization@example.com
--   **GitHub Issues**：https://github.com/your-repo/issues
--   **项目网站**：https://data-visualization.example.com
--   **社交媒体**：
-    -   微信公众号：数据可视化团队
-    -   微博：@数据可视化团队
+-   **团队邮箱**：weineihe@163.com
+-   **GitHub Issues**：https://github.com/newstarbar/data-view-985/issues
+-   **项目网站**：https://github.com/newstarbar/data-view-985
 
 ## 11. 未来规划
 
@@ -779,6 +776,6 @@ TIMELINE_AUTO_PLAY=true
 
 ---
 
-**全国大学生数据可视化竞赛参赛作品**
+**全国民办高校和职业院校产教融合创新创意大赛参赛作品**
 
-**数据可视化团队** **2024 年**
+**星途科技工作室团队** **2025 年**
