@@ -1,0 +1,39 @@
+{
+  "name": "data-view-985",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@vueuse/core": "^10.5.0",
+    "axios": "^1.5.1",
+    "dayjs": "^1.11.10",
+    "echarts": "^5.4.3",
+    "echarts-gl": "^2.0.9",
+    "element-plus": "^2.4.2",
+    "gsap": "^3.12.2",
+    "lodash": "^4.17.21",
+    "pinia": "^2.1.7",
+    "three": "^0.158.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.2",
+    "@types/three": "^0.181.0",
+    "@unocss/preset-attributify": "^66.5.10",
+    "@unocss/preset-icons": "^66.5.10",
+    "@unocss/preset-uno": "^66.5.10",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "@vue/tsconfig": "^0.7.0",
+    "typescript": "~5.8.3",
+    "unocss": "^66.5.10",
+    "vite": "^6.3.5",
+    "vue-tsc": "^2.2.8"
+  }
+}
