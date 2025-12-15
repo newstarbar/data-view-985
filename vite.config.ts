@@ -9,7 +9,7 @@ const __dirname = resolve(__filename, "..");
 
 // https://vite.dev/config/
 export default defineConfig({
-	base: "./",
+	base: "./data-view-985/",
 	plugins: [vue(), UnoCSS()],
 	resolve: {
 		alias: {
